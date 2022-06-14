@@ -1,0 +1,102 @@
+/* ------------------------Title Section -------------------------*/
+#title{
+  background-color: #ff4c68;
+}
+#tindog{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+h1{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+.container-fluid{
+  padding: 3% 15% ;
+  /* height: 600px; */
+}
+/* title-iphone-img */
+.iphone{
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 20%
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/* ----- */
+/* ------------------Features Section------------------ */
+#features{
+  color: black;
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+h3{
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+#icons{
+  color: #ef8172;
+  font-size: 4.5rem;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#icons:hover{
+  color: #ff4c68;
+}
+p{
+  color: #8f8f8f;
+}
+/* -----------------Testimonials Section------------------ */
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+}
+/*---------------- press------------------ */
+#press{
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+}
+.press-logos{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+/* Pricing----------------------Section--------------------- */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
